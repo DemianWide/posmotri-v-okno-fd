@@ -225,7 +225,7 @@ input:focus {
   text-transform: uppercase;
 }
 
-.content__details  .title {
+.content__details .title {
   padding-bottom: 26px;
 }
 
@@ -303,7 +303,7 @@ input:focus {
 
 .content__video-card-title {
   overflow: hidden;
-  font-family: "Oswald",sans-serif;
+  font-family: "Oswald", sans-serif;
   font-size: 30px;
   line-height: 30px;
   text-transform: uppercase;
