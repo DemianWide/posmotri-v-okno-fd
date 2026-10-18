@@ -130,7 +130,7 @@ input {
 }
 
 input:focus {
-  outline: none;  
+  outline: none;
 }
 
 .search-form__label:has(input:focus-visible) {
